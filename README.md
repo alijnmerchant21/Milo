@@ -1,25 +1,15 @@
-# Milo – Magazine/Blog Theme
+# Go n See 
 
-Milo is a clean blog/magazine template designed to optimize your reading experience as much as possible. Based on the latest Bootstrap, using the latest modern technologies and responsive mechanics. Milo can be used for any type of blog and works seamlessly on all major web browsers, tablets and smartphones.
+Go & See is a travel blogging site maintained and owned by Insiyah! 
+The name Go & See is inspired by Go Insi an abbrevation of her name.
 
-## Compile SCSS files
+Hi Readers! Thank you for stopping by. As you might have already read, my name is Insiyah and I’m a travel blogger. 
+I was born and raised in Dubai after which I moved to Mumbai. Here, I graduated from University of Mumbai with a bachelor’s degree in Science and Technology. 
+My working experience including working with various ticketing and tour operating company. I have always excelled in what I have chosen. Recently, I moved to Media.net as a Network Quality Analyst. 
 
-To compile the SASS files to CSS you can use the following guide.
-Note: This is not required, you can always use your own SASS compiler or just use CSS.
+I have been always interested in Traveling and Documenting my journey. 
+Go & See is a fruit of years of hard work and passion compiled together into one.
 
-### Requirements
+## Creator note
 
-- NodeJS (https://nodejs.org/)
-
-### Installation
-
-1. Open your console
-2. Navigate to the root folder of Milo
-3. Run "npm install" and wait
-4. 	- Run "npm start" while developing. This will automatically start a dev server at http://localhost:8080 and detect changes in the SASS files
-	- Run "npm run build" to compile the SASS files to a minified CSS-file
-	- Run "npm run watch" to compile and watch the SASS files
-
-### Customize
-
-To customize Milo for your needs, simple edit the included SASS files. Those files are located in /src/css/. Theme variables (like colours and fonts) are located in _variables.scss.
+This website is created with love my @alijnmerchant21. You can re use this website, as long as you make a small mention of my github. Cheers!
