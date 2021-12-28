@@ -12,4 +12,4 @@ Go & See is a fruit of years of hard work and passion compiled together into one
 
 ## Creator note
 
-This website is created with love my @alijnmerchant21. You can re use this website, as long as you make a small mention of my github. Cheers!
+This website is created with love by @alijnmerchant21. You can re use this website, as long as you make a small mention of my github. Cheers!
